@@ -2,9 +2,9 @@
 
 I build AI tools and agents, at work and at [OriginLabs](https://originlabs.pro), an AI product lab.
 
-At OriginLabs, people who know a problem team up with AI-native builders, and we launch the product in weeks.
+At OriginLabs, people who know a problem team up with AI-native builders, and we launch the product in weeks. Two examples: [escolare.mx](https://escolare.mx) and [chiconcuac.mx](https://chiconcuac.mx).
 
-At work, I started the team's AI workspace: one shared brain with our company context, plus skills and tools anyone can use to ask data questions, pitch ideas, and build dashboards and MVPs.
+At work, I started the team's AI workspace: one shared brain with our company context, plus skills and tools anyone can use to ask data questions, pitch ideas, and build dashboards and MVPs. 24 people across 5 teams use it.
 
 Here I share templates, agent skills and examples you can clone and use in your own product and builder work. Lab products and experiments live in [OriginLabs](https://github.com/OriginLabs-pro).
 
