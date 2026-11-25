@@ -12,7 +12,7 @@ Here I share templates, agent skills and examples you can copy into your own pro
 
 ### What I'm building now
 
-I'm rebuilding two cycles with AI.
+I'm reinventing two cycles with AI.
 
 **In a product team: the product development cycle**
 
