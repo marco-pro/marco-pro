@@ -13,22 +13,22 @@ Here I share templates, agent skills and examples you can clone and use in your 
 **In a product team: rebuilding the product development cycle with AI**
 
 - **Context:** shared team brain + LLM chat
-- **Discover:** idea pitching and scoring with AI, prototypes in hours
-- **Define:** agent-ready PRDs
+- **Discover:** a skill for idea pitching, and prototypes in hours
+- **Define:** a skill to create agent-ready PRDs
 - **Build:** internal apps built with coding agents
-- **Launch:** agents with human approval
+- **Launch:** launches prepared by agents and approved by a person
 - **Measure:** dashboards agents can read (JSON)
-- **Iterate:** experiment loops with agents and MCP
+- **Iterate:** agents that read the results and propose the next iterations
 
 **At OriginLabs: finding a new product builder cycle**
 
 Every product we launch is a test of the method.
 
-- **Define:** problem sessions that become a product definition and copy tests
-- **Plan:** a written plan for every feature
-- **Build:** context-first workspace templates
-- **Launch:** small real launches in weeks
-- **Iterate:** a learnings log that improves our skills and templates
+- **Define:** an agent-led session with the person who has lived the problem, which produces the product definition
+- **Plan:** tickets written and documented by agents, for coding agents to build
+- **Build:** coding agents that work from a shared workspace of context and skills
+- **Launch:** agent-guided launches, live with real users in weeks
+- **Iterate:** agents that review each launch and improve their own skills for the next product
 
 I want AI to help people do better work, not to replace them.
 
