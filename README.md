@@ -39,7 +39,7 @@ I want AI to help people do better work, not to replace them.
 ### A bit about me
 
 - **AI Product Manager at [Lendable](https://lendable.co.uk).** I lead product for the Mexico launch and build the team's AI tools and agents with Python, TypeScript, Claude Code and MCP.
-- **12+ years launching fintech and marketplace products from zero.** First employee and Head of Product at Kontempo ($30M seed), first hire at Centeo (acquired), login and security rebuild at Stori in 3 months, ads platform across 8 markets at Schibsted.
+- **12+ years launching fintech and marketplace products from zero.** First employee and Head of Product at Kontempo ($30M seed), first hire at Centeo (acquired), login and security rebuild at Stori in 3 months, ads platform across 7 markets at Schibsted.
 - **Engineer first.** Android developer, then co-founder & CTO of ILLUTIO, an AR startup in London (Ignite100 accelerator).
 
 I take a product from a problem to live users, and I write the code.
