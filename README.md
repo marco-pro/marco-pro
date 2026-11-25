@@ -1,6 +1,6 @@
 # Hi, I'm Marco
 
-I build AI tools and agents, at work and at [OriginLabs](https://originlabs.pro), an AI product lab.
+I'm a product builder and engineer working on AI tools and agents, at work and at [OriginLabs](https://originlabs.pro), an AI product lab.
 
 At OriginLabs, people who know a problem team up with AI-native builders, and we launch the product in weeks. Two examples: [escolare.mx](https://escolare.mx) and [chiconcuac.mx](https://chiconcuac.mx).
 
@@ -8,11 +8,13 @@ At work, I started the team's AI workspace: one shared brain with our company co
 
 I work next to the people who have the problem, build the tool with them, and stay until they use it every day.
 
-Here I share templates, agent skills and examples you can clone and use in your own product and builder work. Lab products and experiments live in [OriginLabs](https://github.com/OriginLabs-pro).
+Here I share templates, agent skills and examples you can copy into your own product and builder work. Lab products and experiments live in [OriginLabs](https://github.com/OriginLabs-pro).
 
-### Lately, I've been working on
+### What I'm building now
 
-**In a product team: rebuilding the product development cycle with AI**
+I'm rebuilding two cycles with AI.
+
+**In a product team: the product development cycle**
 
 - **Context:** shared team brain + LLM chat
 - **Discover:** a skill for idea pitching, and prototypes in hours
@@ -22,7 +24,7 @@ Here I share templates, agent skills and examples you can clone and use in your 
 - **Measure:** dashboards agents can read (JSON)
 - **Iterate:** agents that read the results and propose the next iterations
 
-**At OriginLabs: finding a new product builder cycle**
+**At OriginLabs: a new product builder cycle**
 
 Every product we launch is a test of the method.
 
