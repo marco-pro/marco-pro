@@ -12,6 +12,17 @@ Here I share templates, agent skills and examples you can clone and use in your 
 
 **In a product team: rebuilding the product development cycle with AI**
 
+```mermaid
+flowchart LR
+    A["Context<br/>shared brain + LLM chat"] --> B["Discover<br/>idea board + prototypes"]
+    B --> C["Define<br/>agent-ready PRDs"]
+    C --> D["Build<br/>internal apps"]
+    D --> E["Launch<br/>agents + human approval"]
+    E --> F["Measure<br/>dashboards agents can read"]
+    F --> G["Iterate<br/>experiment loops"]
+    G -. what we learn .-> A
+```
+
 - **Context:** a shared brain for the team (company context, data definitions and a decision log) with an LLM chat that answers the team's questions from it
 - **Discover:** a shared idea board where the team pitches and scores ideas with AI, and prototypes that let us test the best ones in hours
 - **Define:** agent-ready PRDs, with the scope, context and acceptance criteria a coding agent needs to build the feature
@@ -23,6 +34,15 @@ Here I share templates, agent skills and examples you can clone and use in your 
 **At OriginLabs: finding a new product builder cycle**
 
 Every product we launch is a test of the method.
+
+```mermaid
+flowchart LR
+    A["Define<br/>problem session"] --> B["Plan<br/>written plan per feature"]
+    B --> C["Build<br/>workspace template"]
+    C --> D["Launch<br/>small real launch"]
+    D --> E["Iterate<br/>learnings log"]
+    E -. better skills and templates .-> A
+```
 
 - **Define:** a structured session that turns what a person knows about a problem into a product definition and landing-page copy to test
 - **Plan:** a short written plan for every feature, so the agent gets a clear scope and we keep a record of what we built and why
